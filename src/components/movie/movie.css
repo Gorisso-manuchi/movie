@@ -1,0 +1,28 @@
+.Movie{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-top: 50px;
+
+}
+
+.MovieCard >img{
+    border-radius: 5px;
+}
+.MovieCard{
+    color: white;
+}
+
+.button_loading{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.button_loading{
+    display: inline-block;
+    background-color: #FF6483;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+
+
+}
